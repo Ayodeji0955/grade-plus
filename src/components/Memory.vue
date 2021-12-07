@@ -17,13 +17,14 @@
         </div>
         <div class="col-md-6">
           <h3> NGN 2,000 </h3>
+          <p> Free Now </p>
         </div>
       </div>
       <div class="row justify-content-around info_text">
         <div class="col-md-9">
           <p> 
             <span>Discover proven techniques that will make you capable of recalling things</span>
-            <span>easily. You will become a superhumans who know how to get their</span>
+            <span> easily. You will become a super humans who know how to get their</span>
             <span>memory working anytime, any day!</span>
           </p>
           <h4>What you will learn:</h4>
@@ -40,7 +41,7 @@
         </div>
       </div>
       <div class="row info_btn justify-content-center">
-        <div class="col-md-3">
+        <div class="col-md-3 big_btn">
           <a href="https://bit.ly/BetterMemoryBrochure" target="_blank"><button class="main_btn" type="submit">Download Brochure</button></a>
         </div>
         <div class="col-md-3 sub_btn">
@@ -107,6 +108,14 @@ export default {
 h4{
   padding-top:2rem;
   color:#3974DE;
+}
+h3{
+  color:#3974DE;
+  text-decoration: line-through;
+}
+.info_header p{
+  color: #21cbb0;
+  font-size: 15px;
 }
 h5{
   padding-top:2rem;
@@ -188,8 +197,11 @@ span{
 .btn{
   padding: 1rem 1rem;
 }
-.row .info_btn{
+.big_btn{
   width: 50%;
+}
+.sub_btn{
+  width: 40%;
 }
 }
 </style>

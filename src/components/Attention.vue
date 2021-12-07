@@ -23,8 +23,8 @@
         <div class="col-md-9">
           <p> 
             <span>Find peace, improve attention, reduce stress and anxiety in the midst</span>
-            <span>of pressures. This course carefully designed to help you be better</span>
-            <span>equipped to manage stress, focus and remain motivated.</span>
+            <span> of pressures. This course carefully designed to help you be better</span>
+            <span> equipped to manage stress, focus and remain motivated.</span>
           </p>
           <h4>What you will learn:</h4>
         </div>
@@ -41,7 +41,7 @@
         </div>
       </div>
       <div class="row info_btn justify-content-center">
-        <div class="col-md-3">
+        <div class="col-md-3 big_btn">
            <a href="https://bit.ly/Meta-AttentionBrochure" target="_blank"><button class="main_btn" type="submit">Download Brochure</button></a>
         </div>
         <div class="col-md-3 sub_btn">
@@ -195,8 +195,11 @@ span{
 .btn{
   padding: 1rem 1rem;
 }
-.row .info_btn{
+.big_btn{
   width: 50%;
+}
+.sub_btn{
+  width: 40%;
 }
 }
 
