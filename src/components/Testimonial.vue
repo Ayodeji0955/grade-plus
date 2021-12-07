@@ -8,13 +8,13 @@
                     <div class="card-body">
                         <p class="card-title main_header"> &#8221; </p>
                         <p class="card-text sub_text">
-                            <span>I've once suffered from being a slow reader.</span>
-                            <span>Sometimes, no matter how much I read I find it</span>
-                            <span>hard to put it down correctly. However, I took</span>
-                            <span>one of GradePlus Africa's courses last year, it</span>
-                            <span> was a good one and I learned amazing things</span>
-                            <span>that helped me. GradePlus Africa helps students</span>
-                            <span>in the best ways possible</span>
+                            <span>I remember days I stayed up at night</span>
+                            <span>to catch up with lengthy notes and at last</span>
+                            <span>in exam halls, I ended up forgetting a bulk </span>
+                            <span>of what I had read. However, I took one</span>
+                            <span> of GradePlus Africa's courses sometime</span>
+                            <span>ago and learnt a lot. Those tips have</span>
+                            <span>helped improve my retention level.</span>
                         </p>
                     </div>
                 </div>

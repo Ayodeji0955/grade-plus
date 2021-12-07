@@ -50,23 +50,7 @@ export default {
 }
 </script>
 
-<style scoped>
-@media all and (max-width:600px) {
-.nav_text{
-  padding-top: 2rem;
-}
-h1 span{
-  font-size:25px;
-}
-p span{
-  font-size: 17px;
-}
-.sub_btn .btn{
-  padding: 0.5rem 2rem;
-  font-size: 15px;
-}
-  }
-  
+<style scoped>  
 body{
   margin:0px;
  }
@@ -155,5 +139,21 @@ p{
   padding-top: 2rem;
   padding-bottom: 7rem;
   text-align: center;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media screen and (max-width: 600px) {
+h1 span{
+  font-size:25px;
+}
+p span{
+  font-size: 20px;
+  display: inline;
+}
+.sub_btn .btn{
+  padding: 0.5rem 2rem;
+  font-size: 15px;
+}
 }
 </style>

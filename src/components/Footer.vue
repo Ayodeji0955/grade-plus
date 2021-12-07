@@ -41,9 +41,9 @@
                 <div class="row sub_content justify-content-end">
                     <div class="col-md-4">
                         <div class="social">
-                          <a href="Linkedin" class="linkedin" target="_blank"><img src='~@/assets/img_2/Linkedin.png' width='25px'></a>
-                          <a href="facebook" class="facebook" target="_blank"><img src='~@/assets/img_2/facebook.png' width='25px'></a>
-                          <a href="twitter" class="twitter" target="_blank"><img src='~@/assets/img_2/Twitter.png' width='25px'></a>
+                          <a href="https://linkedin.com/gradeplusafrica" class="linkedin" target="_blank"><img src='~@/assets/img_2/Linkedin.png' width='25px'></a>
+                          <a href="https://facebook.com/gradeplusafrica" class="facebook" target="_blank"><img src='~@/assets/img_2/facebook.png' width='25px'></a>
+                          <a href="https://twitter.com/gradeplusafrica" class="twitter" target="_blank"><img src='~@/assets/img_2/Twitter.png' width='25px'></a>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -68,14 +68,6 @@ export default {
 </script>
 
 <style scoped>
-@media all and (max-width:600px) {
-  .qeola_lab{
-    padding-top: 2rem;
-  }
-  .social{
-    text-align: center;
-  }
-}
 .footer{
   background-color: #030A15;
 }
@@ -154,4 +146,17 @@ input[type=text] {
 .twitter, .facebook{
   padding-left:1rem;
 }
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media screen and (max-width:600px) {
+.qeola_lab{
+  padding-top: 2rem;
+}
+.social{
+  text-align: center;
+}
+}
+
 </style>

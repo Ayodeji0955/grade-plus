@@ -111,11 +111,6 @@ export default {
 </script>
 
 <style scoped>
-@media all and (max-width:600px) {
-  h1{
-    font-size: 20px;
-  }
-}
 .course{
   background-color: #F6F9FE;
   padding-top: 3rem;
@@ -189,4 +184,12 @@ span{
   color:#3974DE;
   font-weight: bold;
 }
+
+
+
+/* @media  and (max-width:600px) {
+  h1{
+    font-size: 20px;
+  }
+} */
 </style>

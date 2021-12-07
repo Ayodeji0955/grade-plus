@@ -42,7 +42,7 @@
       </div>
       <div class="row info_btn justify-content-center">
         <div class="col-md-3">
-          <a href="/" target="_blank"><button class="main_btn" type="submit">Download Brochure</button></a>
+          <a href="https://bit.ly/SpeedReadingBrochure" target="_blank"><button class="main_btn" type="submit">Download Brochure</button></a>
         </div>
         <div class="col-md-3 sub_btn">
            <a href="https://forms.gle/EKBwx1DKRm1nNMp77" target="_blank"><button class="btn" type="submit">Buy Now</button></a>

@@ -41,7 +41,7 @@
       </div>
       <div class="row info_btn justify-content-center">
         <div class="col-md-3">
-          <a href="/" target="_blank"><button class="main_btn" type="submit">Download Brochure</button></a>
+          <a href="https://bit.ly/BetterMemoryBrochure" target="_blank"><button class="main_btn" type="submit">Download Brochure</button></a>
         </div>
         <div class="col-md-3 sub_btn">
           <a href="https://forms.gle/ybbJneLCf1tLv1NB8" target="_blank"><button class="btn" type="submit">Buy Now</button></a>
@@ -69,17 +69,6 @@ export default {
 </script>
 
 <style scoped>
-@media all and (max-width:600px) {
-  .info{
-    width: 100%;
-    margin: 0rem;
-  }
-  /* .info{
-    display: none;
-    background-color: white;
-
-  } */
-}
 
 .memory{
   background-image: url('~@/assets/img_4/group_1.jpg');
@@ -177,4 +166,18 @@ span{
   color: #3974DE;
 }
 
+
+
+/* Extra small devices (phones, 600px and down) */
+@media all and (max-width:600px) {
+  .info{
+    width: 100%;
+    margin: 0rem;
+  }
+  /* .info{
+    display: none;
+    background-color: white;
+
+  } */
+}
 </style>

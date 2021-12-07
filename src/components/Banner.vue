@@ -40,17 +40,6 @@ export default {
 </script>
 
 <style scoped>
-@media all and (max-width:400px) {
-  .main_text h1{
-    font-size: 20px;
-  }
-  .main_text p span{
-    font-size: 17px;
-  }
-  span{
-    display: inline;
-  }
-}
 .banner{
   background-image: url('~@/assets/Img_1/Bg_img.jpg');
   background-position:center;
@@ -72,5 +61,19 @@ export default {
 }
 span{
   display: block;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width:600px) {
+.main_text h1{
+  padding-top: .1rem;
+  font-size: 30px;
+  }
+.main_text p span{
+  font-size: 20px;
+}
+span{
+  display: inline;
+}
 }
 </style>

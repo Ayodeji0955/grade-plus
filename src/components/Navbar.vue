@@ -29,24 +29,7 @@ export default {
 }
 </script>
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-@media all and (max-width:600px) {
-.main_text{
-  font-size: 15px;
-} 
-img{
-  width: 120px;
-  padding-top: 0.5rem;
-}
-.main_btn{
-  padding-left: 0rem;
-}
-.main_btn .btn_main{
-  padding: 0.5rem 1rem;
-  font-size: 10px;
-  display: none;
-}
-} 
+<style scoped> 
 .btn {
   border: none;
   color: #3974DE;
@@ -127,5 +110,26 @@ p{
   padding-top: 2rem;
   padding-bottom: 7rem;
   text-align: center;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+
+@media screen and (max-width: 600px) {
+.main_text{
+  font-size: 15px;
+} 
+img{
+  width: 120px;
+  padding-top: .5rem;
+}
+.main_btn{
+  padding-left: 0rem;
+}
+.main_btn .btn_main{
+  padding: 0.5rem 1rem;
+  font-size: 10px;
+  display: none;
+}
 }
 </style>
