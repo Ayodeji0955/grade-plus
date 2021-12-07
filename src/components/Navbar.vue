@@ -36,6 +36,7 @@ export default {
 } 
 img{
   width: 120px;
+  padding-top: 0.5rem;
 }
 .main_btn{
   padding-left: 0rem;

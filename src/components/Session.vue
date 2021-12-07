@@ -29,9 +29,7 @@
 export default {
   name: 'Session',
   components: {
-  
   }
- 
 }
 </script>
 

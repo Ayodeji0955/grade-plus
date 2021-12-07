@@ -62,6 +62,9 @@ export default {
   components: {
     Navbar,
     Footer
+  },
+   mounted () {
+  window.scrollTo(0, 0)
   }
 }
 </script>
