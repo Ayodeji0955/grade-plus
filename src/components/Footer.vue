@@ -156,9 +156,14 @@ a:link{
 @media screen and (max-width:600px) {
 .qeola_lab{
   padding-top: 2rem;
+  text-align: center;
 }
 .social{
   text-align: center;
+}
+.qeola_copy{
+  text-align: center;
+  padding-left: .5rem;
 }
 }
 

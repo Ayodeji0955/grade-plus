@@ -166,18 +166,30 @@ span{
   color: #3974DE;
 }
 
-
-
 /* Extra small devices (phones, 600px and down) */
-@media all and (max-width:600px) {
-  .info{
-    width: 100%;
-    margin: 0rem;
-  }
-  /* .info{
-    display: none;
-    background-color: white;
-
-  } */
+@media only screen and (max-width:600px) {
+.info{
+  width: 100%;
+  margin: 0rem;
+}
+.header h1{
+  font-size: 30px;
+}
+h3{
+  display: none;
+}
+span{
+  display: inline;
+}
+.main_btn{
+  padding: 1rem 1rem;
+  font-size: 10px;
+}
+.btn{
+  padding: 1rem 1rem;
+}
+.row .info_btn{
+  width: 50%;
+}
 }
 </style>

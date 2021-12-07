@@ -96,5 +96,6 @@ span{
   font-size: 16px;
   padding-bottom: .2rem;
 }
+
 }
 </style>

@@ -17,7 +17,7 @@
                     </p>
                     <div class="row justify-content-center btn_text">
                         <div class="col-6">
-                           <p class="card_link">NGN 2,000</p>
+                           <p class="card_link green">Free Now</p>
                         </div>
                         <div class="col-6">
                            <router-link to="/Memory"><button class="btn" type="submit">Enrol Now</button></router-link>
@@ -165,13 +165,12 @@ span{
   border-radius: 1.5rem;
   box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-/* img{
-  padding-top:1rem;
-  padding-left:0.3rem;
-  padding-right:0.3rem;
-} */
 .btn_text{
   padding-bottom: 2rem;
+}
+.btn_text .green{
+  color: #21cbb0;
+  font-size: 15px;
 }
 .memory_text{
   padding-bottom: 1rem;
