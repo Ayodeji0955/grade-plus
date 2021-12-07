@@ -30,7 +30,7 @@
                         </div>
                         <div class="input-group">
                           <input type="text" class="form-control" placeholder="yourname@xyx.comxyz">
-                          <button class="btn_input btn-light" type="button">Send</button>
+                          <button class="btn_input btn-light" type="button"><a href="https://forms.gle/LAPNbJzaVFWQgshn9" target="_blank">Send</a></button>
                         </div>
                     </div>
                 </div>
@@ -106,6 +106,9 @@ input[type=text] {
   border-radius:30px;
   box-shadow: 0px 0px 0px;
 } 
+a:link{
+  text-decoration: none;
+}
 .sub_address span{
   display: block;
 }

@@ -44,7 +44,7 @@
           <a href="https://bit.ly/BetterMemoryBrochure" target="_blank"><button class="main_btn" type="submit">Download Brochure</button></a>
         </div>
         <div class="col-md-3 sub_btn">
-          <a href="https://forms.gle/ybbJneLCf1tLv1NB8" target="_blank"><button class="btn" type="submit">Buy Now</button></a>
+          <a href="https://forms.gle/ybbJneLCf1tLv1NB8" target="_blank"><button class="btn" type="submit">Enrol Now</button></a>
         </div>
       </div>
     </div>
