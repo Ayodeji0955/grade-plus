@@ -8,13 +8,13 @@
           <div class="col-md-5 sub_content">
             <h2 class="main_text">
               <span>Book a Private</span>
-              <span>Training Session</span>
+              <span> Training Session</span>
             </h2>
             <p class="card-text sub_text">
                 <span>You can also book a one-on-one customized</span>
                 <span> intensive coaching with us to upgrade your mental</span>
                 <span> capacity on any of our courses or the four courses</span>
-                <span>combined for your overall development and</span>
+                <span> combined for your overall development and</span>
                 <span> productivity.</span>
             </p>
             <a href="https://calendly.com/gradeplus-africa/book-a-private-training-session" target="_blank"><button class="btn" type="submit">Book a Session</button></a>
@@ -86,16 +86,24 @@ span{
 /* For small screen devices*/
 @media only screen and (max-width:600px) {
 .main_text{
-  font-size: 30px;
+  font-size: 25px;
   text-align: center;
 }
 span{
   display: inline;
 }
-.sub_text{
-  font-size: 16px;
+.sub_text {
+  font-size: 18px;
   padding-bottom: .2rem;
+  padding-left: .5rem;
 }
-
+.btn{
+  padding: 0.5rem 1rem;
+  font-size: 10px;
+  /* align-items: center; */
+}
+.sub_content a button{
+ text-align: center;
+}
 }
 </style>

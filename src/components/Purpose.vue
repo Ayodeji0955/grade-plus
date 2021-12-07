@@ -187,6 +187,9 @@ span{
   padding: 1rem 1rem;
   font-size: 10px;
 }
+p{
+   padding-left: 1rem;
+}
 .btn{
   padding: 1rem 1rem;
 }

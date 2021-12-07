@@ -188,6 +188,9 @@ h3{
 span{
   display: inline;
 }
+p{
+   padding-left: 1rem;
+}
 .main_btn{
   padding: 1rem 1rem;
   font-size: 10px;
