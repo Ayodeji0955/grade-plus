@@ -8,7 +8,11 @@
           <h1> 
             <span>Unearth what you were </span>
             <span>not taught in school.</span>
-            </h1>
+          </h1>
+          <h1> 
+            <span>Unearth what you were </span>
+            <span>not taught in school.</span>
+          </h1>
           <p> 
             <span>Unlock the super-learning potentials in you with our courses specially </span> 
             <span>designed for your academic and career excellence.</span>
