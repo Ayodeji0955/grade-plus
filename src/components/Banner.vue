@@ -12,7 +12,7 @@
             <span>understand career paths that are a good fit. </span>
           </p>
           <p class="sub_text"> 
-            <span> The cognitive ability module allows you to improve your</span>
+            <span>The cognitive ability module allows you to improve your</span>
             <span>cognitive abilities for success in that career through our</span>
             <span>wholesome, cost-friendly personalized courses. The career</span>
             <span>matching module is coming soon, meanwhile, you can </span>
@@ -67,10 +67,11 @@ span{
 @media only screen and (max-width:600px) {
 .main_text h1{
   padding-top: .1rem;
-  font-size: 30px;
+  padding-bottom: .1rem;
+  font-size: 25px;
   }
 .main_text p span{
-  font-size: 20px;
+  font-size: 16px;
 }
 span{
   display: inline;

@@ -185,11 +185,13 @@ span{
   font-weight: bold;
 }
 
-
-
-/* @media  and (max-width:600px) {
-  h1{
-    font-size: 20px;
-  }
-} */
+@media only screen  and (max-width:600px) {
+h1{
+  font-size: 25px;
+  padding-top: .1rem;
+}
+.course_content{
+  margin-left: .9rem;
+}
+}
 </style>

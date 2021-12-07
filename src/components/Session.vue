@@ -34,17 +34,6 @@ export default {
 </script>
 
 <style scoped>
-@media all and (max-width:600px) {
-  .main_text{
-    font-size: 20px;
-  }
-  span{
-    display: inline;
-  }
-  .sub_text{
-    font-size: 17px;
-  }
-}
 .session{
     background-color: white;
     padding-top: 3rem;
@@ -94,4 +83,18 @@ span{
   color: #3974DE;
 }
 
+/* For small screen devices*/
+@media only screen and (max-width:600px) {
+.main_text{
+  font-size: 30px;
+  text-align: center;
+}
+span{
+  display: inline;
+}
+.sub_text{
+  font-size: 16px;
+  padding-bottom: .2rem;
+}
+}
 </style>

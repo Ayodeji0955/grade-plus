@@ -94,14 +94,6 @@ export default {
 </script>
 
 <style scoped>
-/* @media all and (max-width:600px) {
-  h1{
-    font-size: 20px;
-  }
-  span{
-    display: inline;
-  }
-} */
 .testimonial{
    background-color: #3974DE;
    padding-top: 4rem;
@@ -147,5 +139,21 @@ h2{
 .sub_content p{
   font-size: 12px;
   color: white;
+}
+
+/* for small screens */
+@media only screen and (max-width:600px) {
+h1{
+  font-size: 30px;
+}
+span{
+  display: inline;
+}
+img{
+  display: none;
+}
+.sub_content h2, .sub_content p{
+  display: none;
+}
 }
 </style>

@@ -117,7 +117,7 @@ p{
 
 @media screen and (max-width: 600px) {
 .main_text{
-  font-size: 15px;
+  font-size: 16px;
 } 
 img{
   width: 120px;
