@@ -142,13 +142,16 @@ p{
 }
 
 
-
-@media screen and (max-width:600px) {
-.nav_text h1 span{
-  font-size: 27px;
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width:600px) {
+.nav_text h1{
+  font-size: 30px;
 }
-.nav_text p span{
-  font-size: 18px;
+span{
+  display: inline;
+}
+.nav_text p{
+  font-size: 20px;
 }
 }
 </style>

@@ -184,6 +184,7 @@ span{
   font-weight: bold;
 }
 
+/* Extra small devices (phones, 600px and down) */
 @media only screen  and (max-width:600px) {
 h1{
   font-size: 25px;

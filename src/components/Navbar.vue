@@ -115,7 +115,7 @@ p{
 
 /* Extra small devices (phones, 600px and down) */
 
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
 .main_text{
   font-size: 16px;
 } 
