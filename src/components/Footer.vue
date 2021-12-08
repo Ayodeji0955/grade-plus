@@ -165,6 +165,10 @@ a:link{
   text-align: center;
   padding-left: .5rem;
 }
+.address h1{
+  padding-bottom: 0rem;
+  padding-top: 1rem;
+}
 }
 
 </style>

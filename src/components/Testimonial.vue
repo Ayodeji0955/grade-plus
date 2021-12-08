@@ -9,12 +9,12 @@
                         <p class="card-title main_header"> &#8221; </p>
                         <p class="card-text sub_text">
                             <span>I remember days I stayed up at night</span>
-                            <span>to catch up with lengthy notes and at last</span>
-                            <span>in exam halls, I ended up forgetting a bulk </span>
-                            <span>of what I had read. However, I took one</span>
+                            <span> to catch up with lengthy notes and at last</span>
+                            <span> in exam halls, I ended up forgetting a bulk </span>
+                            <span> of what I had read. However, I took one</span>
                             <span> of GradePlus Africa's courses sometime</span>
-                            <span>ago and learnt a lot. Those tips have</span>
-                            <span>helped improve my retention level.</span>
+                            <span> ago and learnt a lot. Those tips have</span>
+                            <span> helped improve my retention level.</span>
                         </p>
                     </div>
                 </div>
@@ -25,12 +25,12 @@
                         <p class="card-title main_header"> &#8221;</p>
                         <p class="card-text sub_text">
                             <span>My major take away from the Meta-Attention</span>
-                            <span>course was how to prevent my mind from</span>
-                            <span>wandering aimlessly by gaining mastery of my </span>
-                            <span>thoughts. I have also learned how to engage in</span>
-                            <span>productive study using amazing techniques. This</span>
-                             <span>has been so helpful as I have seen improvement </span>
-                            <span>in my academics</span>
+                            <span> course was how to prevent my mind from</span>
+                            <span> wandering aimlessly by gaining mastery of my </span>
+                            <span> thoughts. I have also learned how to engage in</span>
+                            <span> productive study using amazing techniques. This</span>
+                            <span> has been so helpful as I have seen improvement </span>
+                            <span> in my academics</span>
                         </p>
                     </div>
                 </div>
@@ -41,11 +41,11 @@
                         <p class="card-title main_header"> &#8221;</p>
                         <p class="card-text sub_text">
                             <span>The Better Memory course was my first</span>
-                            <span>encounter with GradePlus Africa, and I was</span>
+                            <span> encounter with GradePlus Africa, and I was</span>
                             <span> practically blown away. I regretted not knowing</span>
-                            <span>about GradePlus Africa while I was an </span>
-                            <span>undergraduate. If I did, I would have definitely</span>
-                            <span>graduated with a better grade than I did.</span>
+                            <span> about GradePlus Africa while I was an </span>
+                            <span> undergraduate. If I did, I would have definitely</span>
+                            <span> graduated with a better grade than I did.</span>
                         </p>
                     </div>
                 </div>
@@ -149,9 +149,9 @@ h1{
 span{
   display: inline;
 }
-/* img{
+img{
   display: none;
-} */
+}
 /* .sub_content h2, .sub_content p{
   display: none;
 } */

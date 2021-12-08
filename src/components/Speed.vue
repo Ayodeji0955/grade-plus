@@ -177,8 +177,8 @@ span{
   font-size: 30px;
 }
 h3{
-  display: none;
-  text-align: left;
+  font-size: 15px;
+  color: #21cbb0;
 }
 span{
   display: inline;
