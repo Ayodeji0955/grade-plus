@@ -25,7 +25,7 @@
           <p> 
             <span>Discover proven techniques that will make you capable of recalling things</span>
             <span> easily. You will become a superhuman who know how to get their</span>
-            <span>memory working anytime, any day!</span>
+            <span> memory working anytime, any day!</span>
           </p>
           <h4>What you will learn:</h4>
         </div>

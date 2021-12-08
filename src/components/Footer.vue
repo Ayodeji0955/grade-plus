@@ -41,7 +41,7 @@
                 <div class="row sub_content justify-content-end">
                     <div class="col-md-4">
                         <div class="social">
-                          <a href="https://linkedin.com/gradeplusafrica" class="linkedin" target="_blank"><img src='~@/assets/img_2/Linkedin.png' width='25px'></a>
+                          <a href="https://instagram.com/gradeplus.africa" class="instagram" target="_blank"><img src='~@/assets/img_2/Instagram.png' width='25px'></a>
                           <a href="https://facebook.com/gradeplusafrica" class="facebook" target="_blank"><img src='~@/assets/img_2/facebook.png' width='25px'></a>
                           <a href="https://twitter.com/gradeplusafrica" class="twitter" target="_blank"><img src='~@/assets/img_2/Twitter.png' width='25px'></a>
                         </div>

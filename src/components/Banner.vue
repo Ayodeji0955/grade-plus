@@ -8,7 +8,7 @@
             <span>GradePlus Africa is a two in one online platform that helps</span>
             <span> you explore career options and discover the path for </span>
             <span> achieving your dreams. The career matching module gives  </span>
-            <span> you the ability toanalyze your personality, values and interests</span>
+            <span> you the ability to analyze your personality, values and interests</span>
             <span> to better understand career paths that are a good fit. </span>
           </p>
           <p class="sub_text"> 

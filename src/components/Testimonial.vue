@@ -18,6 +18,14 @@
                         </p>
                     </div>
                 </div>
+                <div class=" sub_content">
+                    <img src='~@/assets/img_2/ellipse_1.jpg' style="width: 20%">
+                    <h2>Oyindamola Ajala</h2>
+                    <p>
+                      <span>George Green Baptist College,</span>
+                      <span> Ogbomoso.</span>
+                    </p>
+                </div>
           </div>
           <div class="col">
                 <div class="card card_text bg-light mb-3" style="max-width: 30rem;">
@@ -34,6 +42,14 @@
                         </p>
                     </div>
                 </div>
+                <div class=" sub_content">
+                  <img src='~@/assets/img_2/ellipse_2.jpg' style="width: 20%">
+                  <h2>Joshua Ajibade</h2>
+                  <p>
+                    <span>Federal University of</span>
+                    <span> Technology, Akure.</span>
+                  </p>
+                </div>
           </div>
           <div class="col">
                 <div class="card card_text bg-light mb-3" style="max-width: 30rem;">
@@ -49,35 +65,15 @@
                         </p>
                     </div>
                 </div>
+                <div class=" sub_content">
+                  <img src='~@/assets/img_2/ellipse_3.jpg' style="width: 20%">
+                  <h2>Adenike Adeodun</h2>
+                  <p>
+                    <span>National Youth Service </span>
+                    <span>Corps (NYSC).</span>
+                  </p>
+                </div>
           </div>
-      </div>
-      <div class="container">
-        <div class="row row-cols-1 row-cols-md-3 g-3 justify-content-evenly">
-            <div class="col sub_content">
-                <img src='~@/assets/img_2/ellipse_1.jpg' style="width: 20%">
-                 <h2>Oyindamola Ajala</h2>
-                 <p>
-                   <span>George Green Baptist College,</span>
-                   <span>Ogbomoso.</span>
-                </p>
-            </div>
-            <div class="col sub_content">
-                <img src='~@/assets/img_2/ellipse_2.jpg' style="width: 20%">
-                 <h2>Joshua Ajibade</h2>
-                 <p>
-                   <span>Federal University of</span>
-                   <span>Technology, Akure.</span>
-                </p>
-            </div>
-            <div class="col sub_content">
-                <img src='~@/assets/img_2/ellipse_3.jpg' style="width: 20%">
-                 <h2>Adenike Adeodun</h2>
-                 <p>
-                   <span>National Youth Service </span>
-                   <span>Corps (NYSC).</span>
-                </p>
-            </div>
-        </div>
       </div>
     </div>
   </div>
