@@ -17,7 +17,9 @@
                 <span> combined for your overall development and</span>
                 <span> productivity.</span>
             </p>
-            <a href="https://calendly.com/gradeplus-africa/book-a-private-training-session" target="_blank"><button class="btn" type="submit">Book a Session</button></a>
+            <div class="btn_space">
+              <a href="https://calendly.com/gradeplus-africa/book-a-private-training-session" target="_blank"><button class="btn" type="submit">Book a Session</button></a>
+            </div>
           </div>
       </div>
     </div>
@@ -103,10 +105,10 @@ span{
 .btn{
   padding: 0.5rem 1rem;
   font-size: 10px;
-  /* align-items: center; */
 }
-.sub_content a button{
- text-align: center;
+.btn_space{
+  text-align: center;
+  padding-top: 1rem;
 }
 }
 </style>
