@@ -2,7 +2,7 @@
   <div>
     <div class="purpose">
         <div class="container main_content">
-            <Navbar />
+            <Newnav />
             <div class="row banner_text align-content-center position-relative">
                 <div class="col-12 header">
                   <h1>Purposeful Living</h1>
@@ -56,13 +56,13 @@
 </template>
 
 <script>
-import Navbar from '@/components/Navbar'
+import Newnav from '@/components/Newnav'
 import Footer from '@/components/Footer'
 
 export default {
   name: 'Purpose',
   components: {
-    Navbar,
+    Newnav,
     Footer
   },
    mounted () {

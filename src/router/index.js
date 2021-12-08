@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../components/Home.vue'
 import Navbar from '../components/Navbar.vue'
+import Newnav from '../components/Newnav.vue'
 import About from '../components/About.vue'
 import Courses from '../components/Courses.vue'
 import Testimonial from '../components/Testimonial.vue'
@@ -34,6 +35,11 @@ const routes = [
     path: '/navbar',
     name: 'Navbar',
     component: Navbar
+  },
+  {
+    path: '/newnav',
+    name: 'Newnav',
+    component: Newnav
   },
   {
     path: '/about',
