@@ -149,9 +149,9 @@ h1{
 span{
   display: inline;
 }
-img{
+/* img{
   display: none;
-}
+} */
 /* .sub_content h2, .sub_content p{
   display: none;
 } */
