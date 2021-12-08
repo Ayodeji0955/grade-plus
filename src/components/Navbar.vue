@@ -7,7 +7,7 @@
           </a>
           <ul class="nav navbar-nav">
               <li class="nav-item main_text">
-                <a class="/"  href="#scrollspyHeading2">Book a Session</a>
+                <a class="/" href="#scrollspyHeading2">Book a Session</a>
               </li>
               <li class="nav-item main_btn">
                 <a class="nav-link" href="#scrollspyHeading1"><button class="btn_main" type="submit">Take a Course</button></a>

@@ -1,11 +1,11 @@
 <template>
   <div class="session">
-    <div class="container main_content" id="scrollspyHeading2">
+    <div class="container main_content">
       <div class="row justify-content-around">
           <div class="col-md-5">
               <img src='~@/assets/img_3/book_img.jpg' class="img-fluid" >
           </div>
-          <div class="col-md-5 sub_content">
+          <div class="col-md-5 sub_content" id="scrollspyHeading2">
             <h2 class="main_text">
               <span>Book a Private</span>
               <span> Training Session</span>
