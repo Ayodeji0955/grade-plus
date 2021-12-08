@@ -58,6 +58,9 @@ span{
   padding-bottom: 1rem;
   color:#3974DE;
 }
+img{
+   border-radius: 1rem;
+}
 .btn{
   border: none;
   color: #3974DE;

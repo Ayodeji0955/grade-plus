@@ -24,7 +24,7 @@
         <div class="col-md-9">
           <p> 
             <span>Discover proven techniques that will make you capable of recalling things</span>
-            <span> easily. You will become a super humans who know how to get their</span>
+            <span> easily. You will become a superhuman who know how to get their</span>
             <span>memory working anytime, any day!</span>
           </p>
           <h4>What you will learn:</h4>
@@ -37,7 +37,7 @@
             <li><span>How to commit knowledge to long term and never forget, under</span><span> pressure or in the face of an examination.</span></li>
           </ul>
           <h5>Duration</h5>
-          <p>1 week to complete</p>
+          <p>One Week</p>
         </div>
       </div>
       <div class="row info_btn justify-content-center">

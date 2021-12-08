@@ -23,7 +23,7 @@
         <div class="col-md-9">
           <p> 
             <span>Find peace, improve attention, reduce stress and anxiety in the midst</span>
-            <span> of pressures. This course carefully designed to help you be better</span>
+            <span> of pressures. This course is carefully designed to help you be better</span>
             <span> equipped to manage stress, focus and remain motivated.</span>
           </p>
           <h4>What you will learn:</h4>
@@ -37,7 +37,7 @@
             <li> Improve your ability to concentrate and actively listen</li>
           </ul>
           <h5>Duration</h5>
-          <p>1 week to complete</p>
+          <p>One Week</p>
         </div>
       </div>
       <div class="row info_btn justify-content-center">

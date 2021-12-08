@@ -38,7 +38,7 @@
           <li>How to live a fulfilling life - your best life.</li>
         </ul>
         <h5>Duration</h5>
-        <p>1 week to complete</p>
+        <p>One Week </p>
       </div>
       </div>
       <!-- </div> -->

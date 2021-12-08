@@ -23,7 +23,7 @@
         <div class="col-md-9">
           <p> 
             <span>Don’t lag behind in the 21st-century space of numerous contents and</span>
-            <span> educational materials by being a slow reader. Learn and Master the right</span>
+            <span> educational materials by being a slow reader. Learn and master the right</span>
             <span> techniques to speed-read without sacrificing comprehension.</span>
           </p>
           <h4>What you will learn:</h4>
@@ -34,10 +34,10 @@
             <li>Discover bad habits that limit your reading, how to eliminate subvocalization, and much more.</li>
             <li>How to maximize your comprehension while speed reading.</li>
             <li>How to maintain and augment your concentration while speed reading. </li>
-            <li>How to progress from a slow reader to a fast reader within a short while</li>
+            <li>How to progress from being a slow reader to a fast reader within a short while</li>
           </ul>
           <h5>Duration</h5>
-          <p>1 week to complete</p>
+          <p>One Week</p>
         </div>
       </div>
       <div class="row info_btn justify-content-center">

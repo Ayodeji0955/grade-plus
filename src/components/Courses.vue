@@ -35,7 +35,7 @@
                       <span>Find peace, improve attention, reduce</span>
                       <span>stress and anxiety in the midst of</span>
                       <span>pressures. This course is designed to</span>
-                      <span>help remain motivated.</span>
+                      <span>help you remain motivated.</span>
                     </p>
                     <div class="row justify-content-center btn_text">
                         <div class="col-6">
